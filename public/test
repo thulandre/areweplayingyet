@@ -1,0 +1,15 @@
+({
+  name: '', // "CONNECT-LEGENDARY app"
+  description: '', // "An Official Artistry platform giving artist access to manage, promote, and sell their Arts online, also gives art fans easy access to their favourite art interest"
+  spec: 'http://…', // http://www.connectlegendary.com
+  longdesc: 'lorem ipsum…', // optional
+  reports: { // optional
+    chrome: {
+      desc: 'lorem ipsum…',
+      link: 'http://…'"http://connectlegendary.com"
+    }
+  },
+  assert: function(finish) { // "finish"
+    var audio = this.audio;
+  }
+})
